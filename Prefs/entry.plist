@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Actualprefs;
+	cell = PSLinkCell;
+	detail = ActualprefsListController;
+	icon = Actualprefs.png;
+	isController = 1;
+	label = Actualprefs;
+    };
+}
